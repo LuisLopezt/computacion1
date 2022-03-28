@@ -1,0 +1,10 @@
+9
+Luis,M,25,1
+Alejandra,F,23,2
+Leandro,M,20,4
+Genesis,F,18,1
+Veronica,M,23,3
+Pedro,M,19,4
+Maria,F,35,3
+Carmen,F,40,2
+Ana,F,15,1
